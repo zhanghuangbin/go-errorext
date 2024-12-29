@@ -50,7 +50,7 @@ func CurrentFrame() Frame {
 //	%s    源代码文件
 //	%d    源代码的函数
 //	%n    调用函数名
-//	%v    %s:%d#%n 的简写
+//	%v    %s:%d 的简写
 //
 // Format accepts flags that alter the printing of some verbs, as follows:
 //

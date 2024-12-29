@@ -14,6 +14,8 @@
 // Output:
 //
 // main.go:11: wrapper err2
+//
 // main.go:10: wrapper err1
+//
 // main.go:9: init error
 package errorext
